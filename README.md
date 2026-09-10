@@ -4,9 +4,7 @@
 Playerbot checkout at commit `47960183bb03b83e8943eb2f0f39c16df9710c9d`.
 
 The module controls a single realm-wide phase. It enforces level caps, expansion and instance map
-access, Quel'Danas access, LFG eligibility, character creation, and administrator-supplied explicit
-item/quest rules. It never deletes a character or item. While the module is enabled, every login
-announcement begins with the hard-coded `Created by iCore` credit and cannot be disabled separately.
+access.
 
 ## Phase table
 
