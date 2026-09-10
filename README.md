@@ -1,5 +1,5 @@
 # mod-evolution V1.1
-
+This module is started hard tested by 2026.09.10 19:00 , published when the module is so stable untill this not availabled.
 `mod-evolution` is a global realm-era controller for AzerothCore 3.3.5a. This revision targets the
 Playerbot checkout at commit `47960183bb03b83e8943eb2f0f39c16df9710c9d`.
 
